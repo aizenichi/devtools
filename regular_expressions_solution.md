@@ -1,7 +1,8 @@
 # Basic Bash Commands Solutions
 
-**Exercise 1**  
+ 
 ```bash
+**Exercise 1**
 ls -d ~/[A-Z]*
 
 **Exercise 2**
